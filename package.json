@@ -1,0 +1,23 @@
+{
+  "name": "thal.1",
+  "version": "1.0.0",
+  "description": "scape practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGCollinson/BotProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGCollinson/BotProject/issues"
+  },
+  "homepage": "https://github.com/JGCollinson/BotProject#readme",
+  "dependencies": {
+    "mongoose": "^5.3.14",
+    "puppeteer": "^1.11.0"
+  }
+}
